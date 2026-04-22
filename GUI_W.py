@@ -14,8 +14,8 @@ TRACKER_CFG  = "bytetrack.yaml"
 LOG_FILE     = "ppe_log.csv"
 
 # --- Telegram Bot Configuration ---
-BOT_TOKEN = "7474268210:AAEKCwPyr9qEiM8CL9bBeBM8NneftcTh92M"
-CHAT_ID   = "1629159049"
+BOT_TOKEN = 
+CHAT_ID   =
 
 # ----------------------- MODEL -----------------------
 model = YOLO(MODEL_PATH)
